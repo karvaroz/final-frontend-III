@@ -1,0 +1,42 @@
+.product {
+	max-width: 500px;
+	border: 1px solid #6c757d;
+	margin: 40px auto;
+	position: relative;
+	align-items: center;
+	text-align: center;
+}
+
+.product li {
+	list-style: none;
+	padding: 5px;
+	font-weight: 300;
+}
+
+.product h2,
+.product h3,
+.product button {
+	text-transform: uppercase;
+}
+
+.product header h2 {
+	font-size: 2rem;
+	text-align: center;
+	padding: 10px;
+}
+
+.product h3 {
+	font-size: 18px;
+}
+
+.details {
+	margin-top: 16px;
+}
+
+.product ul {
+	margin: 8px 24px;
+}
+
+.product img {
+	margin-top: 10px;
+}

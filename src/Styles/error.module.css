@@ -1,0 +1,9 @@
+.error {
+	text-align: center;
+	margin: 4px;
+	background-color: #880808;
+	color: #fff;
+	font-weight: 500;
+	padding: 3px;
+	text-transform: uppercase;
+}
